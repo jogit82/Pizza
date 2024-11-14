@@ -1,4 +1,4 @@
-# React 18 web app - with Vite
+# React 19 web app - with Vite
 
 - API is in a separate repository
 
